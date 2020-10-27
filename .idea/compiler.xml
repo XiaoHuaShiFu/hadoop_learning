@@ -29,7 +29,7 @@
     <bytecodeTargetLevel>
       <module name="book" target="1.6" />
       <module name="ch02-mr-intro" target="1.6" />
-      <module name="ch03-hdfs" target="1.6" />
+      <module name="ch03-hdfs" target="7" />
       <module name="ch05-io" target="1.6" />
       <module name="ch06-mr-dev" target="1.6" />
       <module name="ch08-mr-types" target="1.6" />
